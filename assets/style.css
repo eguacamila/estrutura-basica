@@ -1,5 +1,5 @@
 body { 
-    background: black;
+    background: white;
 }
 
 #banner {
@@ -11,11 +11,12 @@ body {
     padding: 30px;
 }
 
-h1 {
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
     text-align: center;
-    height: 130px;
-    padding: 20px;
-    margin-left: 40px;
 }
 
 p {
